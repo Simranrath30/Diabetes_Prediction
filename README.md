@@ -1,8 +1,8 @@
 # Diabetes_Prediction
 This project builds a Supervised Machine Learning model to predict diabetes risk based on patient health parameters. The model uses Support Vector Machines (SVM) for classification and is trained on a structured medical dataset.
 Features & Methodology
-✅ Dataset: Includes patient data such as Glucose Level, Blood Pressure, BMI, Insulin, Age, etc.
-✅ Standardization: Applied StandardScaler to normalize feature values, ensuring the model performs optimally on different scales of data.
+✅ Dataset: Includes patient data such as Glucose Level, Blood Pressure, BMI, Insulin, Age, etc. /n
+✅ Standardization: Applied StandardScaler to normalize feature values, ensuring the model performs optimally on different scales of data. /n
 ✅ Model Used: SVM (Support Vector Machine) for binary classification (Diabetic / Non-Diabetic).
 ✅ Evaluation Metrics: Accuracy
 Results & Insights
